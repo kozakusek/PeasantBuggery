@@ -18,4 +18,9 @@ If you feel the urge to try this… maybe get a hobby? Or, you know, *write code
 
 ## Questions worth going back to
 
-todo ...
+* 0004.Median-Of-Two-Sorted-Arrays  
+* 0025.Reverse Nodes in k-Group  
+* 0030.Substring-with-Concatenation-of-All-Words  
+* 0084.Largest-Rectangle-in-Histogram  
+* 0085.Maximal-Rectangle  
+* 0087.Scramble-String  
